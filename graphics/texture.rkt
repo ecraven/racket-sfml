@@ -1,6 +1,6 @@
 #lang racket
 
-(provide all-defined-out)
+(provide (all-defined-out))
 (require
  ffi/unsafe
  "../sfml-util.rkt"
